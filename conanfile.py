@@ -4,7 +4,7 @@ class QflagsConan(ConanFile):
     name = "qflags"
     version = "last"
     license = "MIT"
-    url = "None"
+    url = "https://github.com/AlErted/qflags"
     description = "Simple cross-platform C++ command-line parsing library"
     exports_sources = "include/*"
     generators = "cmake"
