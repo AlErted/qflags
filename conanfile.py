@@ -2,7 +2,7 @@ from conans import ConanFile, CMake
 
 class QflagsConan(ConanFile):
     name = "qflags"
-    version = "last"
+    version = "0.1"
     license = "MIT"
     url = "https://github.com/AlErted/qflags"
     description = "Simple cross-platform C++ command-line parsing library"
